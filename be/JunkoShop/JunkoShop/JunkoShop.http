@@ -1,0 +1,6 @@
+@JunkoShop_HostAddress = http://localhost:5260
+
+GET {{JunkoShop_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
